@@ -2,8 +2,6 @@
 
 > The art of starting too much | cyber | ☕ Latte | 🐦 [@sifex](https://twitter.com/sifex)
 
----
-
 ## Projects
 
 ### › Northbourne
