@@ -1,6 +1,6 @@
 # Hakuna!
 
-> The art of starting too much | cyber | ☕ Latte | 🐦 [sifex](https://twitter.com/sifex)
+> The art of starting too much | cyber | ☕ Latte | 🐦 [@sifex](https://twitter.com/sifex)
 
 ---
 
@@ -31,3 +31,7 @@ Sudo is the University of Canberra’s Student Undergraduate Developers Organisa
 An online community platform that engages your members.
 
 › 💻 [Platform](https://platformapp.io/) - Laravel Application, Vue Frontend, Mobile App
+
+## Get in Touch
+
+Best way is to tweet me [@sifex](https://twitter.com/sifex)
