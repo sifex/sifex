@@ -4,7 +4,7 @@
 
 ## Projects
 
-### › <img src="https://avatars3.githubusercontent.com/u/57554213?s=60&v=4" height="32" style="border-radius: 10px;" align="top" />  Northbourne
+### <img src="https://avatars3.githubusercontent.com/u/57554213?s=60&v=4" height="32" style="border-radius: 10px;" align="top" />  Northbourne
 
 A context-agnostic desired-state configuration management agent written in Rust [More ›](https://docs.north.sh/)
 
@@ -12,7 +12,7 @@ A context-agnostic desired-state configuration management agent written in Rust 
 
 ---
 
-### › <img src="https://australianarmedforces.org/aaf-global/images/favicon/aaf-global-apple-touch-icon-152x152.png" height="32" style="border-radius: 10px;" align="top" />  Australian Armed Forces
+### <img src="https://australianarmedforces.org/aaf-global/images/favicon/aaf-global-apple-touch-icon-152x152.png" height="32" style="border-radius: 10px;" align="top" />  Australian Armed Forces
 
 The Australian Armed Forces, often referred to as just “AAF”, is a co-op based squad formed in the late months of 2008, however its roots extend back to 2001 with the release of Operation Flashpoint. [More ›](https://australianarmedforces.org/about/)
 
@@ -22,7 +22,7 @@ The Australian Armed Forces, often referred to as just “AAF”, is a co-op bas
 
 ---
 
-### › <img src="https://avatars1.githubusercontent.com/u/10512693?s=60&v=4" height="32" style="border-radius: 10px;" align="top" />  Sudo
+### <img src="https://avatars1.githubusercontent.com/u/10512693?s=60&v=4" height="32" style="border-radius: 10px;" align="top" />  Sudo
 
 Sudo is the University of Canberra’s Student Undergraduate Developers Organisation, or Sudo for short. Sudo was started in 2016 by Students who wanted to share their ideas, code, solutions and projects with their peers, and with the world. [More ›](https://sudo.org.au/about/)
 
@@ -30,7 +30,7 @@ Sudo is the University of Canberra’s Student Undergraduate Developers Organisa
 
 ---
 
-### › <img src="https://avatars0.githubusercontent.com/u/58643355?s=60&v=4" height="32" style="border-radius: 10px;" align="top" /> Platform
+### <img src="https://avatars0.githubusercontent.com/u/58643355?s=60&v=4" height="32" style="border-radius: 10px;" align="top" /> Platform
 
 An online community platform that engages your members.
 
