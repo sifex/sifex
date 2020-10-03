@@ -1,6 +1,6 @@
 # Hakuna!
 
-> The art of starting too much | cyber | ☕ Latte | <img src="https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png" height="28" style="border-radius: 4px;" align="top" />[@sifex](https://twitter.com/sifex)
+> The art of starting too much | cyber | ☕ Piccolo | <img src="https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png" height="28" style="border-radius: 4px;" align="top" />[@sifex](https://twitter.com/sifex)
 
 ## Projects
 
