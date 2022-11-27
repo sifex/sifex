@@ -13,27 +13,24 @@
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
         </filter>
-        <text id="text-4" font-family="Verdana" font-size="10.5" font-weight="normal" fill="#FFFFFF">
-            <tspan x="44.5947408" y="11.3385541">Official</tspan>
-        </text>
-        <filter x="-1.4%" y="-3.8%" width="102.7%" height="115.4%" filterUnits="objectBoundingBox" id="filter-5">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0.0932719905   0 0 0 0 0.376069637   0 0 0 0 0.448992301  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
     </defs>
     <g id="Sigma-Official-Badge" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Sigma-Official;">
             <path d="M4,0 L91,0 L91,0 L91,20 L4,20 C1.790861,20 -3.72626139e-15,18.209139 0,16 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
             <path d="M63,0 L108,0 C110.209139,-4.05812251e-16 112,1.790861 112,4 L112,16 C112,18.209139 110.209139,20 108,20 L63,20 L63,20 L63,0 Z" id="Rectangle-Copy" fill="#00A7CC" fill-rule="nonzero"></path>
-            <g id="sigma_official_badge" transform="translate(23.286054, 3.355154)" fill="#FFFFFF" fill-opacity="1">
-                <g id="Sigma">
-                    <use filter="url(#filter-3)" xlink:href="#text-2"></use>
-                    <use xlink:href="#text-2"></use>
+            <g id="sigma_official_badge" transform="translate(23.286054, 3.355154)">
+                <g id="Sigma" fill="#FFFFFF" fill-opacity="1">
+                    <g id="Sigma">
+                        <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+                        <use xlink:href="#text-2"></use>
+                    </g>
                 </g>
-                <g id="Official">
-                    <use filter="url(#filter-5)" xlink:href="#text-4"></use>
-                    <use xlink:href="#text-4"></use>
-                </g>
+                <text id="Official-Copy" font-family="Verdana" font-size="10.5" font-weight="normal" fill="#004351">
+                    <tspan x="44.5947408" y="12.3385541">Official</tspan>
+                </text>
+                <text id="Official" font-family="Verdana" font-size="10.5" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="44.5947408" y="11.3385541">Official</tspan>
+                </text>
             </g>
             <g id="Sigma-Logo" transform="translate(4.000000, 3.000000)" fill-rule="nonzero">
                 <path d="M6.66589661,14 C10.6776337,14 14.2097395,10.8659933 14.5550759,7 C14.9004122,3.13400676 11.9282071,0 7.91646998,0 C3.90473287,0 0.372626996,3.13400676 0.0272906949,7 C-0.318045605,10.8659933 2.6541595,14 6.66589661,14 Z" id="Oval" fill-opacity="0.170782343" fill="#8EA3E6"></path>
